@@ -1,0 +1,1428 @@
+Server 1, Task 1, Subtask 0, Client 1, Honest: 69
+Server 2, Task 1, Subtask 0, Client 1, Malicious: 94
+Server 2, Task 1, Subtask 0, Client 2, Honest: 79
+Server 1, Task 1, Subtask 0, Client 2, Honest: 79
+Client 1, Task 1, Subtask 0, Server 1: 69
+Client 1, Task 1, Subtask 0, Server 2: 94
+Client 2, Task 1, Subtask 0, Server 2: 79
+Client 2, Task 1, Subtask 0, Server 1: 79
+Server 2, Task 1, Subtask 1, Client 1, Honest: 60
+Server 1, Task 1, Subtask 1, Client 1, Malicious: 22
+Server 1, Task 1, Subtask 1, Client 2, Honest: 79
+Server 2, Task 1, Subtask 1, Client 2, Honest: 79
+Client 1, Task 1, Subtask 1, Server 2: 60
+Client 1, Task 1, Subtask 1, Server 1: 22
+Scores of servers for Client 1 after Task 1:
+Server 1: 2
+Client 2, Task 1, Subtask 1, Server 1: 79
+Client 2, Task 1, Subtask 1, Server 2: 79
+Scores of servers for Client 2 after Task 1:
+Server 1: 2
+Server 2: 2
+Server 1, Task 2, Subtask 0, Client 2, Honest: 72
+Server 2, Task 2, Subtask 0, Client 2, Honest: 72
+Server 1, Task 2, Subtask 0, Client 1, Honest: 99
+Server 2, Task 2, Subtask 0, Client 1, Honest: 99
+Client 2, Task 2, Subtask 0, Server 1: 72
+Client 2, Task 2, Subtask 0, Server 2: 72
+Scores of servers for Client 2 after Task 2:
+Server 1: 3
+Server 2: 3
+Client 1, Task 2, Subtask 0, Server 1: 99
+Client 1, Task 2, Subtask 0, Server 2: 99
+Scores of servers for Client 1 after Task 2:
+Server 1: 3
+Server 2: 1
+Server 1, Task 2, Subtask 1, Client 2, Honest: 93
+Server 2, Task 2, Subtask 1, Client 2, Malicious: 24
+Server 1, Task 2, Subtask 1, Client 1, Malicious: 1
+Server 2, Task 2, Subtask 1, Client 1, Honest: 97
+Client 2, Task 2, Subtask 1, Server 1: 93
+Client 2, Task 2, Subtask 1, Server 2: 24
+Scores of servers for Client 2 after Task 2:
+Server 1: 3
+Server 2: 4
+Client 1, Task 2, Subtask 1, Server 1: 1
+Client 1, Task 2, Subtask 1, Server 2: 97
+Scores of servers for Client 1 after Task 2:
+Server 1: 4
+Server 2: 1
+Server 3, Task 1, Subtask 0, Client 1, Honest: 29
+Server 2, Task 1, Subtask 0, Client 1, Malicious: 68
+Server 3, Task 1, Subtask 0, Client 2, Honest: 79
+Server 2, Task 1, Subtask 0, Client 2, Honest: 79
+Client 1, Task 1, Subtask 0, Server 3: 29
+Client 1, Task 1, Subtask 0, Server 2: 68
+Client 2, Task 1, Subtask 0, Server 3: 79
+Client 2, Task 1, Subtask 0, Server 2: 79
+Server 1, Task 1, Subtask 1, Client 1, Honest: 40
+Server 3, Task 1, Subtask 1, Client 1, Honest: 40
+Server 2, Task 1, Subtask 1, Client 2, Malicious: 24
+Server 1, Task 1, Subtask 1, Client 2, Honest: 79
+Client 1, Task 1, Subtask 1, Server 1: 40
+Client 1, Task 1, Subtask 1, Server 3: 40
+Client 2, Task 1, Subtask 1, Server 2: 24
+Client 2, Task 1, Subtask 1, Server 1: 79
+Server 2, Task 1, Subtask 2, Client 1, Honest: 69
+Server 1, Task 1, Subtask 2, Client 1, Malicious: 98
+Server 1, Task 1, Subtask 2, Client 2, Honest: 67
+Server 2, Task 1, Subtask 2, Client 2, Honest: 67
+Client 1, Task 1, Subtask 2, Server 2: 69
+Client 1, Task 1, Subtask 2, Server 1: 98
+Scores of servers for Client 1 after Task 1:
+Server 1: 1
+Server 3: 3
+Client 2, Task 1, Subtask 2, Server 1: 67
+Client 2, Task 1, Subtask 2, Server 2: 67
+Scores of servers for Client 2 after Task 1:
+Server 1: 2
+Server 2: 2
+Server 3: 2
+Server 3, Task 2, Subtask 0, Client 2, Honest: 93
+Server 1, Task 2, Subtask 0, Client 2, Honest: 93
+Server 1, Task 2, Subtask 0, Client 1, Honest: 60
+Server 2, Task 2, Subtask 0, Client 1, Honest: 60
+Client 2, Task 2, Subtask 0, Server 3: 93
+Client 2, Task 2, Subtask 0, Server 1: 93
+Scores of servers for Client 2 after Task 2:
+Server 1: 3
+Server 2: 2
+Server 3: 3
+Client 1, Task 2, Subtask 0, Server 1: 60
+Client 1, Task 2, Subtask 0, Server 2: 60
+Scores of servers for Client 1 after Task 2:
+Server 1: 2
+Server 2: 1
+Server 3: 3
+Server 3, Task 2, Subtask 1, Client 2, Honest: 85
+Server 1, Task 2, Subtask 1, Client 2, Malicious: 13
+Server 1, Task 2, Subtask 1, Client 1, Honest: 99
+Server 2, Task 2, Subtask 1, Client 1, Honest: 99
+Client 2, Task 2, Subtask 1, Server 3: 85
+Client 2, Task 2, Subtask 1, Server 1: 13
+Scores of servers for Client 2 after Task 2:
+Server 1: 4
+Server 2: 2
+Server 3: 3
+Client 1, Task 2, Subtask 1, Server 1: 99
+Client 1, Task 2, Subtask 1, Server 2: 99
+Scores of servers for Client 1 after Task 2:
+Server 1: 3
+Server 2: 2
+Server 3: 3
+Server 3, Task 2, Subtask 2, Client 2, Honest: 94
+Server 1, Task 2, Subtask 2, Client 2, Malicious: 63
+Server 1, Task 2, Subtask 2, Client 1, Honest: 97
+Server 2, Task 2, Subtask 2, Client 1, Malicious: 36
+Client 2, Task 2, Subtask 2, Server 3: 94
+Client 2, Task 2, Subtask 2, Server 1: 63
+Scores of servers for Client 2 after Task 2:
+Server 1: 5
+Server 2: 2
+Server 3: 3
+Client 1, Task 2, Subtask 2, Server 1: 97
+Client 1, Task 2, Subtask 2, Server 2: 36
+Scores of servers for Client 1 after Task 2:
+Server 1: 3
+Server 2: 3
+Server 3: 3
+Server 4, Task 1, Subtask 0, Client 1, Malicious: 93
+Server 5, Task 1, Subtask 0, Client 1, Honest: 99
+Server 1, Task 1, Subtask 0, Client 1, Honest: 99
+Server 5, Task 1, Subtask 0, Client 2, Honest: 96
+Server 2, Task 1, Subtask 0, Client 2, Honest: 96
+Server 3, Task 1, Subtask 0, Client 2, Malicious: 69
+Server 2, Task 1, Subtask 0, Client 3, Malicious: 80
+Server 1, Task 1, Subtask 0, Client 3, Honest: 5
+Server 4, Task 1, Subtask 0, Client 3, Honest: 5
+Server 4, Task 1, Subtask 0, Client 4, Honest: 99
+Server 3, Task 1, Subtask 0, Client 4, Honest: 99
+Server 2, Task 1, Subtask 0, Client 4, Malicious: 55
+Server 5, Task 1, Subtask 0, Client 5, Honest: 79
+Server 4, Task 1, Subtask 0, Client 5, Honest: 79
+Server 1, Task 1, Subtask 0, Client 5, Honest: 79
+Server 4, Task 1, Subtask 0, Client 6, Honest: 59
+Server 2, Task 1, Subtask 0, Client 6, Honest: 59
+Server 3, Task 1, Subtask 0, Client 6, Malicious: 55
+Server 1, Task 1, Subtask 0, Client 7, Honest: 91
+Server 5, Task 1, Subtask 0, Client 7, Honest: 91
+Server 3, Task 1, Subtask 0, Client 7, Malicious: 6
+Client 1, Task 1, Subtask 0, Server 4: 93
+Client 1, Task 1, Subtask 0, Server 5: 99
+Client 1, Task 1, Subtask 0, Server 1: 99
+Client 2, Task 1, Subtask 0, Server 5: 96
+Client 2, Task 1, Subtask 0, Server 2: 96
+Client 2, Task 1, Subtask 0, Server 3: 69
+Client 3, Task 1, Subtask 0, Server 2: 80
+Client 3, Task 1, Subtask 0, Server 1: 5
+Client 3, Task 1, Subtask 0, Server 4: 5
+Client 4, Task 1, Subtask 0, Server 4: 99
+Client 4, Task 1, Subtask 0, Server 3: 99
+Client 4, Task 1, Subtask 0, Server 2: 55
+Client 5, Task 1, Subtask 0, Server 5: 79
+Client 5, Task 1, Subtask 0, Server 4: 79
+Client 5, Task 1, Subtask 0, Server 1: 79
+Client 6, Task 1, Subtask 0, Server 4: 59
+Client 6, Task 1, Subtask 0, Server 2: 59
+Client 6, Task 1, Subtask 0, Server 3: 55
+Client 7, Task 1, Subtask 0, Server 1: 91
+Client 7, Task 1, Subtask 0, Server 5: 91
+Client 7, Task 1, Subtask 0, Server 3: 6
+Server 3, Task 1, Subtask 1, Client 1, Malicious: 50
+Server 2, Task 1, Subtask 1, Client 1, Honest: 35
+Server 4, Task 1, Subtask 1, Client 1, Honest: 35
+Server 2, Task 1, Subtask 1, Client 2, Honest: 22
+Server 5, Task 1, Subtask 1, Client 2, Malicious: 50
+Server 4, Task 1, Subtask 1, Client 2, Honest: 22
+Server 3, Task 1, Subtask 1, Client 3, Honest: 98
+Server 2, Task 1, Subtask 1, Client 3, Honest: 98
+Server 5, Task 1, Subtask 1, Client 3, Honest: 98
+Server 2, Task 1, Subtask 1, Client 4, Honest: 60
+Server 5, Task 1, Subtask 1, Client 4, Honest: 60
+Server 1, Task 1, Subtask 1, Client 4, Honest: 60
+Server 1, Task 1, Subtask 1, Client 5, Malicious: 76
+Server 5, Task 1, Subtask 1, Client 5, Malicious: 12
+Server 4, Task 1, Subtask 1, Client 5, Honest: 35
+Server 1, Task 1, Subtask 1, Client 6, Honest: 85
+Server 3, Task 1, Subtask 1, Client 6, Honest: 85
+Server 2, Task 1, Subtask 1, Client 6, Malicious: 54
+Server 3, Task 1, Subtask 1, Client 7, Honest: 97
+Server 4, Task 1, Subtask 1, Client 7, Malicious: 97
+Server 5, Task 1, Subtask 1, Client 7, Honest: 97
+Client 1, Task 1, Subtask 1, Server 3: 50
+Client 1, Task 1, Subtask 1, Server 2: 35
+Client 1, Task 1, Subtask 1, Server 4: 35
+Client 2, Task 1, Subtask 1, Server 2: 22
+Client 2, Task 1, Subtask 1, Server 5: 50
+Client 2, Task 1, Subtask 1, Server 4: 22
+Client 3, Task 1, Subtask 1, Server 3: 98
+Client 3, Task 1, Subtask 1, Server 2: 98
+Client 3, Task 1, Subtask 1, Server 5: 98
+Client 4, Task 1, Subtask 1, Server 2: 60
+Client 4, Task 1, Subtask 1, Server 5: 60
+Client 4, Task 1, Subtask 1, Server 1: 60
+Client 5, Task 1, Subtask 1, Server 1: 76
+Client 5, Task 1, Subtask 1, Server 5: 12
+Client 5, Task 1, Subtask 1, Server 4: 35
+Client 6, Task 1, Subtask 1, Server 1: 85
+Client 6, Task 1, Subtask 1, Server 3: 85
+Client 6, Task 1, Subtask 1, Server 2: 54
+Client 7, Task 1, Subtask 1, Server 3: 97
+Client 7, Task 1, Subtask 1, Server 4: 97
+Client 7, Task 1, Subtask 1, Server 5: 97
+Server 2, Task 1, Subtask 2, Client 1, Honest: 97
+Server 4, Task 1, Subtask 2, Client 1, Malicious: 11
+Server 1, Task 1, Subtask 2, Client 1, Honest: 97
+Server 5, Task 1, Subtask 2, Client 2, Honest: 66
+Server 4, Task 1, Subtask 2, Client 2, Honest: 66
+Server 3, Task 1, Subtask 2, Client 2, Honest: 66
+Server 4, Task 1, Subtask 2, Client 3, Honest: 88
+Server 3, Task 1, Subtask 2, Client 3, Malicious: 78
+Server 1, Task 1, Subtask 2, Client 3, Honest: 88
+Server 4, Task 1, Subtask 2, Client 4, Malicious: 14
+Server 5, Task 1, Subtask 2, Client 4, Honest: 94
+Server 1, Task 1, Subtask 2, Client 4, Honest: 94
+Server 1, Task 1, Subtask 2, Client 5, Honest: 98
+Server 5, Task 1, Subtask 2, Client 5, Honest: 98
+Server 2, Task 1, Subtask 2, Client 5, Malicious: 19
+Server 1, Task 1, Subtask 2, Client 6, Honest: 72
+Server 4, Task 1, Subtask 2, Client 6, Honest: 72
+Server 3, Task 1, Subtask 2, Client 6, Honest: 72
+Server 4, Task 1, Subtask 2, Client 7, Malicious: 37
+Server 2, Task 1, Subtask 2, Client 7, Honest: 53
+Server 3, Task 1, Subtask 2, Client 7, Honest: 53
+Client 1, Task 1, Subtask 2, Server 2: 97
+Client 1, Task 1, Subtask 2, Server 4: 11
+Client 1, Task 1, Subtask 2, Server 1: 97
+Client 2, Task 1, Subtask 2, Server 5: 66
+Client 2, Task 1, Subtask 2, Server 4: 66
+Client 2, Task 1, Subtask 2, Server 3: 66
+Client 3, Task 1, Subtask 2, Server 4: 88
+Client 3, Task 1, Subtask 2, Server 3: 78
+Client 3, Task 1, Subtask 2, Server 1: 88
+Client 4, Task 1, Subtask 2, Server 4: 14
+Client 4, Task 1, Subtask 2, Server 5: 94
+Client 4, Task 1, Subtask 2, Server 1: 94
+Client 5, Task 1, Subtask 2, Server 1: 98
+Client 5, Task 1, Subtask 2, Server 5: 98
+Client 5, Task 1, Subtask 2, Server 2: 19
+Client 6, Task 1, Subtask 2, Server 1: 72
+Client 6, Task 1, Subtask 2, Server 4: 72
+Client 6, Task 1, Subtask 2, Server 3: 72
+Client 7, Task 1, Subtask 2, Server 4: 37
+Client 7, Task 1, Subtask 2, Server 2: 53
+Client 7, Task 1, Subtask 2, Server 3: 53
+Server 2, Task 1, Subtask 3, Client 1, Honest: 67
+Server 1, Task 1, Subtask 3, Client 1, Malicious: 54
+Server 3, Task 1, Subtask 3, Client 1, Honest: 67
+Server 3, Task 1, Subtask 3, Client 2, Honest: 24
+Server 2, Task 1, Subtask 3, Client 2, Honest: 24
+Server 4, Task 1, Subtask 3, Client 2, Honest: 24
+Server 4, Task 1, Subtask 3, Client 3, Honest: 82
+Server 3, Task 1, Subtask 3, Client 3, Honest: 82
+Server 5, Task 1, Subtask 3, Client 3, Malicious: 18
+Server 1, Task 1, Subtask 3, Client 4, Honest: 95
+Server 5, Task 1, Subtask 3, Client 4, Honest: 95
+Server 3, Task 1, Subtask 3, Client 4, Honest: 95
+Server 1, Task 1, Subtask 3, Client 5, Honest: 95
+Server 2, Task 1, Subtask 3, Client 5, Honest: 95
+Server 3, Task 1, Subtask 3, Client 5, Honest: 95
+Server 1, Task 1, Subtask 3, Client 6, Honest: 47
+Server 2, Task 1, Subtask 3, Client 6, Malicious: 57
+Server 3, Task 1, Subtask 3, Client 6, Honest: 47
+Server 5, Task 1, Subtask 3, Client 7, Malicious: 85
+Server 4, Task 1, Subtask 3, Client 7, Honest: 25
+Server 1, Task 1, Subtask 3, Client 7, Malicious: 29
+Client 1, Task 1, Subtask 3, Server 2: 67
+Client 1, Task 1, Subtask 3, Server 1: 54
+Client 1, Task 1, Subtask 3, Server 3: 67
+Client 2, Task 1, Subtask 3, Server 3: 24
+Client 2, Task 1, Subtask 3, Server 2: 24
+Client 2, Task 1, Subtask 3, Server 4: 24
+Client 3, Task 1, Subtask 3, Server 4: 82
+Client 3, Task 1, Subtask 3, Server 3: 82
+Client 3, Task 1, Subtask 3, Server 5: 18
+Client 4, Task 1, Subtask 3, Server 1: 95
+Client 4, Task 1, Subtask 3, Server 5: 95
+Client 4, Task 1, Subtask 3, Server 3: 95
+Client 5, Task 1, Subtask 3, Server 1: 95
+Client 5, Task 1, Subtask 3, Server 2: 95
+Client 5, Task 1, Subtask 3, Server 3: 95
+Client 6, Task 1, Subtask 3, Server 1: 47
+Client 6, Task 1, Subtask 3, Server 2: 57
+Client 6, Task 1, Subtask 3, Server 3: 47
+Client 7, Task 1, Subtask 3, Server 5: 85
+Client 7, Task 1, Subtask 3, Server 4: 25
+Client 7, Task 1, Subtask 3, Server 1: 29
+Server 4, Task 1, Subtask 4, Client 1, Honest: 33
+Server 3, Task 1, Subtask 4, Client 1, Malicious: 50
+Server 5, Task 1, Subtask 4, Client 1, Honest: 33
+Server 3, Task 1, Subtask 4, Client 2, Malicious: 34
+Server 5, Task 1, Subtask 4, Client 2, Honest: 77
+Server 1, Task 1, Subtask 4, Client 2, Honest: 77
+Server 4, Task 1, Subtask 4, Client 3, Honest: 66
+Server 1, Task 1, Subtask 4, Client 3, Honest: 66
+Server 5, Task 1, Subtask 4, Client 3, Honest: 66
+Server 1, Task 1, Subtask 4, Client 4, Honest: 68
+Server 5, Task 1, Subtask 4, Client 4, Honest: 68
+Server 3, Task 1, Subtask 4, Client 4, Honest: 68
+Server 4, Task 1, Subtask 4, Client 5, Honest: 54
+Server 3, Task 1, Subtask 4, Client 5, Honest: 54
+Server 1, Task 1, Subtask 4, Client 5, Malicious: 80
+Server 2, Task 1, Subtask 4, Client 6, Malicious: 79
+Server 1, Task 1, Subtask 4, Client 6, Honest: 96
+Server 4, Task 1, Subtask 4, Client 6, Honest: 96
+Server 1, Task 1, Subtask 4, Client 7, Honest: 62
+Server 4, Task 1, Subtask 4, Client 7, Malicious: 32
+Server 2, Task 1, Subtask 4, Client 7, Honest: 62
+Client 1, Task 1, Subtask 4, Server 4: 33
+Client 1, Task 1, Subtask 4, Server 3: 50
+Client 1, Task 1, Subtask 4, Server 5: 33
+Scores of servers for Client 1 after Task 1:
+Server 1: 2
+Server 2: 3
+Server 3: 1
+Server 4: 2
+Server 5: 2
+Client 2, Task 1, Subtask 4, Server 3: 34
+Client 2, Task 1, Subtask 4, Server 5: 77
+Client 2, Task 1, Subtask 4, Server 1: 77
+Scores of servers for Client 2 after Task 1:
+Server 2: 4
+Server 3: 2
+Server 4: 4
+Server 5: 2
+Client 3, Task 1, Subtask 4, Server 4: 66
+Client 3, Task 1, Subtask 4, Server 1: 66
+Client 3, Task 1, Subtask 4, Server 5: 66
+Scores of servers for Client 3 after Task 1:
+Server 1: 3
+Server 2: 1
+Server 3: 2
+Server 4: 4
+Server 5: 2
+Client 4, Task 1, Subtask 4, Server 1: 68
+Client 4, Task 1, Subtask 4, Server 5: 68
+Client 4, Task 1, Subtask 4, Server 3: 68
+Scores of servers for Client 4 after Task 1:
+Server 1: 4
+Server 2: 1
+Server 3: 3
+Server 4: 1
+Server 5: 4
+Client 5, Task 1, Subtask 4, Server 4: 54
+Client 5, Task 1, Subtask 4, Server 3: 54
+Client 5, Task 1, Subtask 4, Server 1: 80
+Scores of servers for Client 5 after Task 1:
+Server 1: 3
+Server 2: 1
+Server 3: 2
+Server 4: 2
+Server 5: 3
+Client 6, Task 1, Subtask 4, Server 2: 79
+Client 6, Task 1, Subtask 4, Server 1: 96
+Client 6, Task 1, Subtask 4, Server 4: 96
+Scores of servers for Client 6 after Task 1:
+Server 1: 4
+Server 2: 1
+Server 3: 3
+Server 4: 3
+Client 7, Task 1, Subtask 4, Server 1: 62
+Client 7, Task 1, Subtask 4, Server 4: 32
+Client 7, Task 1, Subtask 4, Server 2: 62
+Scores of servers for Client 7 after Task 1:
+Server 1: 2
+Server 2: 3
+Server 3: 3
+Server 4: 1
+Server 5: 2
+Server 1, Task 2, Subtask 0, Client 1, Honest: 79
+Server 4, Task 2, Subtask 0, Client 1, Malicious: 74
+Server 3, Task 2, Subtask 0, Client 1, Honest: 79
+Server 1, Task 2, Subtask 0, Client 2, Honest: 33
+Server 4, Task 2, Subtask 0, Client 2, Malicious: 49
+Server 3, Task 2, Subtask 0, Client 2, Honest: 33
+Server 1, Task 2, Subtask 0, Client 3, Honest: 38
+Server 4, Task 2, Subtask 0, Client 3, Malicious: 42
+Server 3, Task 2, Subtask 0, Client 3, Honest: 38
+Server 1, Task 2, Subtask 0, Client 4, Honest: 62
+Server 4, Task 2, Subtask 0, Client 4, Malicious: 49
+Server 3, Task 2, Subtask 0, Client 4, Honest: 62
+Server 1, Task 2, Subtask 0, Client 5, Honest: 89
+Server 4, Task 2, Subtask 0, Client 5, Malicious: 71
+Server 3, Task 2, Subtask 0, Client 5, Honest: 89
+Server 1, Task 2, Subtask 0, Client 6, Honest: 85
+Server 4, Task 2, Subtask 0, Client 6, Malicious: 10
+Server 3, Task 2, Subtask 0, Client 6, Honest: 85
+Server 1, Task 2, Subtask 0, Client 7, Honest: 77
+Server 4, Task 2, Subtask 0, Client 7, Malicious: 79
+Server 3, Task 2, Subtask 0, Client 7, Honest: 77
+Client 1, Task 2, Subtask 0, Server 1: 79
+Client 1, Task 2, Subtask 0, Server 4: 74
+Client 1, Task 2, Subtask 0, Server 3: 79
+Scores of servers for Client 1 after Task 2:
+Server 1: 3
+Server 2: 3
+Server 3: 2
+Server 4: 2
+Server 5: 2
+Client 2, Task 2, Subtask 0, Server 1: 33
+Client 2, Task 2, Subtask 0, Server 4: 49
+Client 2, Task 2, Subtask 0, Server 3: 33
+Scores of servers for Client 2 after Task 2:
+Server 1: 1
+Server 2: 4
+Server 3: 3
+Server 4: 4
+Server 5: 2
+Client 3, Task 2, Subtask 0, Server 1: 38
+Client 3, Task 2, Subtask 0, Server 4: 42
+Client 3, Task 2, Subtask 0, Server 3: 38
+Scores of servers for Client 3 after Task 2:
+Server 1: 4
+Server 2: 1
+Server 3: 3
+Server 4: 4
+Server 5: 2
+Client 4, Task 2, Subtask 0, Server 1: 62
+Client 4, Task 2, Subtask 0, Server 4: 49
+Client 4, Task 2, Subtask 0, Server 3: 62
+Scores of servers for Client 4 after Task 2:
+Server 1: 5
+Server 2: 1
+Server 3: 4
+Server 4: 1
+Server 5: 4
+Client 5, Task 2, Subtask 0, Server 1: 89
+Client 5, Task 2, Subtask 0, Server 4: 71
+Client 5, Task 2, Subtask 0, Server 3: 89
+Scores of servers for Client 5 after Task 2:
+Server 1: 4
+Server 2: 1
+Server 3: 3
+Server 4: 2
+Server 5: 3
+Client 6, Task 2, Subtask 0, Server 1: 85
+Client 6, Task 2, Subtask 0, Server 4: 10
+Client 6, Task 2, Subtask 0, Server 3: 85
+Scores of servers for Client 6 after Task 2:
+Server 1: 5
+Server 2: 1
+Server 3: 4
+Server 4: 3
+Client 7, Task 2, Subtask 0, Server 1: 77
+Client 7, Task 2, Subtask 0, Server 4: 79
+Client 7, Task 2, Subtask 0, Server 3: 77
+Scores of servers for Client 7 after Task 2:
+Server 1: 3
+Server 2: 3
+Server 3: 4
+Server 4: 1
+Server 5: 2
+Server 1, Task 2, Subtask 1, Client 1, Honest: 72
+Server 4, Task 2, Subtask 1, Client 1, Honest: 72
+Server 3, Task 2, Subtask 1, Client 1, Malicious: 18
+Server 1, Task 2, Subtask 1, Client 2, Honest: 98
+Server 4, Task 2, Subtask 1, Client 2, Honest: 98
+Server 3, Task 2, Subtask 1, Client 2, Honest: 98
+Server 1, Task 2, Subtask 1, Client 3, Honest: 97
+Server 4, Task 2, Subtask 1, Client 3, Malicious: 46
+Server 3, Task 2, Subtask 1, Client 3, Honest: 97
+Server 1, Task 2, Subtask 1, Client 4, Honest: 82
+Server 4, Task 2, Subtask 1, Client 4, Honest: 82
+Server 3, Task 2, Subtask 1, Client 4, Malicious: 99
+Server 1, Task 2, Subtask 1, Client 5, Honest: 26
+Server 4, Task 2, Subtask 1, Client 5, Honest: 26
+Server 3, Task 2, Subtask 1, Client 5, Honest: 26
+Server 1, Task 2, Subtask 1, Client 6, Honest: 68
+Server 4, Task 2, Subtask 1, Client 6, Honest: 68
+Server 3, Task 2, Subtask 1, Client 6, Malicious: 30
+Server 1, Task 2, Subtask 1, Client 7, Malicious: 21
+Server 4, Task 2, Subtask 1, Client 7, Honest: 68
+Server 3, Task 2, Subtask 1, Client 7, Honest: 68
+Client 1, Task 2, Subtask 1, Server 1: 72
+Client 1, Task 2, Subtask 1, Server 4: 72
+Client 1, Task 2, Subtask 1, Server 3: 18
+Scores of servers for Client 1 after Task 2:
+Server 1: 4
+Server 2: 3
+Server 3: 2
+Server 4: 3
+Server 5: 2
+Client 2, Task 2, Subtask 1, Server 1: 98
+Client 2, Task 2, Subtask 1, Server 4: 98
+Client 2, Task 2, Subtask 1, Server 3: 98
+Scores of servers for Client 2 after Task 2:
+Server 1: 2
+Server 2: 4
+Server 3: 4
+Server 4: 5
+Server 5: 2
+Client 3, Task 2, Subtask 1, Server 1: 97
+Client 3, Task 2, Subtask 1, Server 4: 46
+Client 3, Task 2, Subtask 1, Server 3: 97
+Scores of servers for Client 3 after Task 2:
+Server 1: 5
+Server 2: 1
+Server 3: 4
+Server 4: 4
+Server 5: 2
+Client 4, Task 2, Subtask 1, Server 1: 82
+Client 4, Task 2, Subtask 1, Server 4: 82
+Client 4, Task 2, Subtask 1, Server 3: 99
+Scores of servers for Client 4 after Task 2:
+Server 1: 6
+Server 2: 1
+Server 3: 4
+Server 4: 2
+Server 5: 4
+Client 5, Task 2, Subtask 1, Server 1: 26
+Client 5, Task 2, Subtask 1, Server 4: 26
+Client 5, Task 2, Subtask 1, Server 3: 26
+Scores of servers for Client 5 after Task 2:
+Server 1: 5
+Server 2: 1
+Server 3: 4
+Server 4: 3
+Server 5: 3
+Client 6, Task 2, Subtask 1, Server 1: 68
+Client 6, Task 2, Subtask 1, Server 4: 68
+Client 6, Task 2, Subtask 1, Server 3: 30
+Scores of servers for Client 6 after Task 2:
+Server 1: 6
+Server 2: 1
+Server 3: 4
+Server 4: 4
+Client 7, Task 2, Subtask 1, Server 1: 21
+Client 7, Task 2, Subtask 1, Server 4: 68
+Client 7, Task 2, Subtask 1, Server 3: 68
+Scores of servers for Client 7 after Task 2:
+Server 1: 3
+Server 2: 3
+Server 3: 5
+Server 4: 2
+Server 5: 2
+Server 1, Task 2, Subtask 2, Client 1, Honest: 93
+Server 4, Task 2, Subtask 2, Client 1, Malicious: 60
+Server 3, Task 2, Subtask 2, Client 1, Honest: 93
+Server 1, Task 2, Subtask 2, Client 2, Honest: 65
+Server 4, Task 2, Subtask 2, Client 2, Malicious: 98
+Server 3, Task 2, Subtask 2, Client 2, Honest: 65
+Server 1, Task 2, Subtask 2, Client 3, Honest: 71
+Server 4, Task 2, Subtask 2, Client 3, Malicious: 51
+Server 3, Task 2, Subtask 2, Client 3, Honest: 71
+Server 1, Task 2, Subtask 2, Client 4, Honest: 67
+Server 4, Task 2, Subtask 2, Client 4, Honest: 67
+Server 3, Task 2, Subtask 2, Client 4, Honest: 67
+Server 1, Task 2, Subtask 2, Client 5, Honest: 70
+Server 4, Task 2, Subtask 2, Client 5, Malicious: 40
+Server 3, Task 2, Subtask 2, Client 5, Honest: 70
+Server 1, Task 2, Subtask 2, Client 6, Honest: 34
+Server 4, Task 2, Subtask 2, Client 6, Honest: 34
+Server 3, Task 2, Subtask 2, Client 6, Malicious: 3
+Server 1, Task 2, Subtask 2, Client 7, Honest: 95
+Server 4, Task 2, Subtask 2, Client 7, Malicious: 51
+Server 3, Task 2, Subtask 2, Client 7, Honest: 95
+Client 1, Task 2, Subtask 2, Server 1: 93
+Client 1, Task 2, Subtask 2, Server 4: 60
+Client 1, Task 2, Subtask 2, Server 3: 93
+Scores of servers for Client 1 after Task 2:
+Server 1: 5
+Server 2: 3
+Server 3: 3
+Server 4: 3
+Server 5: 2
+Client 2, Task 2, Subtask 2, Server 1: 65
+Client 2, Task 2, Subtask 2, Server 4: 98
+Client 2, Task 2, Subtask 2, Server 3: 65
+Scores of servers for Client 2 after Task 2:
+Server 1: 3
+Server 2: 4
+Server 3: 5
+Server 4: 5
+Server 5: 2
+Client 3, Task 2, Subtask 2, Server 1: 71
+Client 3, Task 2, Subtask 2, Server 4: 51
+Client 3, Task 2, Subtask 2, Server 3: 71
+Scores of servers for Client 3 after Task 2:
+Server 1: 6
+Server 2: 1
+Server 3: 5
+Server 4: 4
+Server 5: 2
+Client 4, Task 2, Subtask 2, Server 1: 67
+Client 4, Task 2, Subtask 2, Server 4: 67
+Client 4, Task 2, Subtask 2, Server 3: 67
+Scores of servers for Client 4 after Task 2:
+Server 1: 7
+Server 2: 1
+Server 3: 5
+Server 4: 3
+Server 5: 4
+Client 5, Task 2, Subtask 2, Server 1: 70
+Client 5, Task 2, Subtask 2, Server 4: 40
+Client 5, Task 2, Subtask 2, Server 3: 70
+Scores of servers for Client 5 after Task 2:
+Server 1: 6
+Server 2: 1
+Server 3: 5
+Server 4: 3
+Server 5: 3
+Client 6, Task 2, Subtask 2, Server 1: 34
+Client 6, Task 2, Subtask 2, Server 4: 34
+Client 6, Task 2, Subtask 2, Server 3: 3
+Scores of servers for Client 6 after Task 2:
+Server 1: 7
+Server 2: 1
+Server 3: 4
+Server 4: 5
+Client 7, Task 2, Subtask 2, Server 1: 95
+Client 7, Task 2, Subtask 2, Server 4: 51
+Client 7, Task 2, Subtask 2, Server 3: 95
+Scores of servers for Client 7 after Task 2:
+Server 1: 4
+Server 2: 3
+Server 3: 6
+Server 4: 2
+Server 5: 2
+Server 1, Task 2, Subtask 3, Client 1, Malicious: 20
+Server 4, Task 2, Subtask 3, Client 1, Honest: 91
+Server 3, Task 2, Subtask 3, Client 1, Honest: 91
+Server 1, Task 2, Subtask 3, Client 2, Malicious: 25
+Server 4, Task 2, Subtask 3, Client 2, Honest: 63
+Server 3, Task 2, Subtask 3, Client 2, Honest: 63
+Server 1, Task 2, Subtask 3, Client 3, Honest: 97
+Server 4, Task 2, Subtask 3, Client 3, Malicious: 12
+Server 3, Task 2, Subtask 3, Client 3, Honest: 97
+Server 1, Task 2, Subtask 3, Client 4, Honest: 95
+Server 4, Task 2, Subtask 3, Client 4, Honest: 95
+Server 3, Task 2, Subtask 3, Client 4, Honest: 95
+Server 1, Task 2, Subtask 3, Client 5, Honest: 94
+Server 4, Task 2, Subtask 3, Client 5, Honest: 94
+Server 3, Task 2, Subtask 3, Client 5, Honest: 94
+Server 1, Task 2, Subtask 3, Client 6, Malicious: 83
+Server 4, Task 2, Subtask 3, Client 6, Honest: 79
+Server 3, Task 2, Subtask 3, Client 6, Honest: 79
+Server 1, Task 2, Subtask 3, Client 7, Malicious: 88
+Server 4, Task 2, Subtask 3, Client 7, Honest: 74
+Server 3, Task 2, Subtask 3, Client 7, Honest: 74
+Client 1, Task 2, Subtask 3, Server 1: 20
+Client 1, Task 2, Subtask 3, Server 4: 91
+Client 1, Task 2, Subtask 3, Server 3: 91
+Scores of servers for Client 1 after Task 2:
+Server 1: 5
+Server 2: 3
+Server 3: 4
+Server 4: 4
+Server 5: 2
+Client 2, Task 2, Subtask 3, Server 1: 25
+Client 2, Task 2, Subtask 3, Server 4: 63
+Client 2, Task 2, Subtask 3, Server 3: 63
+Scores of servers for Client 2 after Task 2:
+Server 1: 3
+Server 2: 4
+Server 3: 6
+Server 4: 6
+Server 5: 2
+Client 3, Task 2, Subtask 3, Server 1: 97
+Client 3, Task 2, Subtask 3, Server 4: 12
+Client 3, Task 2, Subtask 3, Server 3: 97
+Scores of servers for Client 3 after Task 2:
+Server 1: 7
+Server 2: 1
+Server 3: 6
+Server 4: 4
+Server 5: 2
+Client 4, Task 2, Subtask 3, Server 1: 95
+Client 4, Task 2, Subtask 3, Server 4: 95
+Client 4, Task 2, Subtask 3, Server 3: 95
+Scores of servers for Client 4 after Task 2:
+Server 1: 8
+Server 2: 1
+Server 3: 6
+Server 4: 4
+Server 5: 4
+Client 5, Task 2, Subtask 3, Server 1: 94
+Client 5, Task 2, Subtask 3, Server 4: 94
+Client 5, Task 2, Subtask 3, Server 3: 94
+Scores of servers for Client 5 after Task 2:
+Server 1: 7
+Server 2: 1
+Server 3: 6
+Server 4: 4
+Server 5: 3
+Client 6, Task 2, Subtask 3, Server 1: 83
+Client 6, Task 2, Subtask 3, Server 4: 79
+Client 6, Task 2, Subtask 3, Server 3: 79
+Scores of servers for Client 6 after Task 2:
+Server 1: 7
+Server 2: 2
+Server 3: 5
+Server 4: 6
+Client 7, Task 2, Subtask 3, Server 1: 88
+Client 7, Task 2, Subtask 3, Server 4: 74
+Client 7, Task 2, Subtask 3, Server 3: 74
+Scores of servers for Client 7 after Task 2:
+Server 1: 4
+Server 2: 3
+Server 3: 7
+Server 4: 3
+Server 5: 2
+Server 1, Task 2, Subtask 4, Client 1, Malicious: 90
+Server 4, Task 2, Subtask 4, Client 1, Honest: 94
+Server 3, Task 2, Subtask 4, Client 1, Honest: 94
+Server 1, Task 2, Subtask 4, Client 2, Honest: 94
+Server 4, Task 2, Subtask 4, Client 2, Malicious: 66
+Server 3, Task 2, Subtask 4, Client 2, Honest: 94
+Server 1, Task 2, Subtask 4, Client 3, Honest: 94
+Server 4, Task 2, Subtask 4, Client 3, Honest: 94
+Server 3, Task 2, Subtask 4, Client 3, Honest: 94
+Server 1, Task 2, Subtask 4, Client 4, Honest: 90
+Server 4, Task 2, Subtask 4, Client 4, Malicious: 10
+Server 3, Task 2, Subtask 4, Client 4, Honest: 90
+Server 1, Task 2, Subtask 4, Client 5, Honest: 66
+Server 4, Task 2, Subtask 4, Client 5, Honest: 66
+Server 3, Task 2, Subtask 4, Client 5, Malicious: 93
+Server 1, Task 2, Subtask 4, Client 6, Malicious: 53
+Server 4, Task 2, Subtask 4, Client 6, Honest: 95
+Server 3, Task 2, Subtask 4, Client 6, Honest: 95
+Server 1, Task 2, Subtask 4, Client 7, Honest: 72
+Server 4, Task 2, Subtask 4, Client 7, Honest: 72
+Server 3, Task 2, Subtask 4, Client 7, Malicious: 65
+Client 1, Task 2, Subtask 4, Server 1: 90
+Client 1, Task 2, Subtask 4, Server 4: 94
+Client 1, Task 2, Subtask 4, Server 3: 94
+Scores of servers for Client 1 after Task 2:
+Server 1: 5
+Server 2: 3
+Server 3: 5
+Server 4: 5
+Server 5: 2
+Client 2, Task 2, Subtask 4, Server 1: 94
+Client 2, Task 2, Subtask 4, Server 4: 66
+Client 2, Task 2, Subtask 4, Server 3: 94
+Scores of servers for Client 2 after Task 2:
+Server 1: 4
+Server 2: 4
+Server 3: 7
+Server 4: 6
+Server 5: 2
+Client 3, Task 2, Subtask 4, Server 1: 94
+Client 3, Task 2, Subtask 4, Server 4: 94
+Client 3, Task 2, Subtask 4, Server 3: 94
+Scores of servers for Client 3 after Task 2:
+Server 1: 8
+Server 2: 1
+Server 3: 7
+Server 4: 5
+Server 5: 2
+Client 4, Task 2, Subtask 4, Server 1: 90
+Client 4, Task 2, Subtask 4, Server 4: 10
+Client 4, Task 2, Subtask 4, Server 3: 90
+Scores of servers for Client 4 after Task 2:
+Server 1: 9
+Server 2: 1
+Server 3: 7
+Server 4: 4
+Server 5: 4
+Client 5, Task 2, Subtask 4, Server 1: 66
+Client 5, Task 2, Subtask 4, Server 4: 66
+Client 5, Task 2, Subtask 4, Server 3: 93
+Scores of servers for Client 5 after Task 2:
+Server 1: 8
+Server 2: 1
+Server 3: 6
+Server 4: 5
+Server 5: 3
+Client 6, Task 2, Subtask 4, Server 1: 53
+Client 6, Task 2, Subtask 4, Server 4: 95
+Client 6, Task 2, Subtask 4, Server 3: 95
+Scores of servers for Client 6 after Task 2:
+Server 1: 7
+Server 2: 2
+Server 3: 6
+Server 4: 7
+Client 7, Task 2, Subtask 4, Server 1: 72
+Client 7, Task 2, Subtask 4, Server 4: 72
+Client 7, Task 2, Subtask 4, Server 3: 65
+Scores of servers for Client 7 after Task 2:
+Server 1: 5
+Server 2: 3
+Server 3: 7
+Server 4: 4
+Server 5: 2
+Server 1, Task 1, Subtask 0, Client 1, Honest: 92
+Server 3, Task 1, Subtask 0, Client 1, Malicious: 95
+Server 3, Task 1, Subtask 0, Client 2, Honest: 97
+Server 2, Task 1, Subtask 0, Client 2, Malicious: 5
+Server 3, Task 1, Subtask 0, Client 3, Honest: 57
+Server 2, Task 1, Subtask 0, Client 3, Honest: 57
+Server 1, Task 1, Subtask 0, Client 4, Malicious: 4
+Server 2, Task 1, Subtask 0, Client 4, Honest: 28
+Client 1, Task 1, Subtask 0, Server 1: 92
+Client 1, Task 1, Subtask 0, Server 3: 95
+Client 2, Task 1, Subtask 0, Server 3: 97
+Client 2, Task 1, Subtask 0, Server 2: 5
+Client 3, Task 1, Subtask 0, Server 3: 57
+Client 3, Task 1, Subtask 0, Server 2: 57
+Client 4, Task 1, Subtask 0, Server 1: 4
+Client 4, Task 1, Subtask 0, Server 2: 28
+Server 1, Task 1, Subtask 1, Client 1, Honest: 87
+Server 3, Task 1, Subtask 1, Client 1, Malicious: 28
+Server 2, Task 1, Subtask 1, Client 2, Honest: 67
+Server 1, Task 1, Subtask 1, Client 2, Malicious: 37
+Server 2, Task 1, Subtask 1, Client 3, Malicious: 58
+Server 1, Task 1, Subtask 1, Client 3, Honest: 53
+Server 1, Task 1, Subtask 1, Client 4, Honest: 98
+Server 3, Task 1, Subtask 1, Client 4, Honest: 98
+Client 1, Task 1, Subtask 1, Server 1: 87
+Client 1, Task 1, Subtask 1, Server 3: 28
+Client 2, Task 1, Subtask 1, Server 2: 67
+Client 2, Task 1, Subtask 1, Server 1: 37
+Client 3, Task 1, Subtask 1, Server 2: 58
+Client 3, Task 1, Subtask 1, Server 1: 53
+Client 4, Task 1, Subtask 1, Server 1: 98
+Client 4, Task 1, Subtask 1, Server 3: 98
+Server 1, Task 1, Subtask 2, Client 1, Malicious: 57
+Server 3, Task 1, Subtask 2, Client 1, Honest: 29
+Server 3, Task 1, Subtask 2, Client 2, Malicious: 94
+Server 1, Task 1, Subtask 2, Client 2, Honest: 33
+Server 3, Task 1, Subtask 2, Client 3, Malicious: 8
+Server 2, Task 1, Subtask 2, Client 3, Honest: 68
+Server 3, Task 1, Subtask 2, Client 4, Malicious: 95
+Server 1, Task 1, Subtask 2, Client 4, Honest: 81
+Client 1, Task 1, Subtask 2, Server 1: 57
+Client 1, Task 1, Subtask 2, Server 3: 29
+Scores of servers for Client 1 after Task 1:
+Server 1: 1
+Server 3: 2
+Client 2, Task 1, Subtask 2, Server 3: 94
+Client 2, Task 1, Subtask 2, Server 1: 33
+Scores of servers for Client 2 after Task 1:
+Server 1: 2
+Server 2: 1
+Client 3, Task 1, Subtask 2, Server 3: 8
+Client 3, Task 1, Subtask 2, Server 2: 68
+Scores of servers for Client 3 after Task 1:
+Server 1: 1
+Server 2: 1
+Server 3: 2
+Client 4, Task 1, Subtask 2, Server 3: 95
+Client 4, Task 1, Subtask 2, Server 1: 81
+Scores of servers for Client 4 after Task 1:
+Server 1: 2
+Server 2: 1
+Server 3: 1
+Server 1, Task 2, Subtask 0, Client 1, Honest: 40
+Server 3, Task 2, Subtask 0, Client 1, Honest: 40
+Server 1, Task 2, Subtask 0, Client 2, Honest: 79
+Server 3, Task 2, Subtask 0, Client 2, Honest: 79
+Server 1, Task 2, Subtask 0, Client 3, Honest: 96
+Server 3, Task 2, Subtask 0, Client 3, Honest: 96
+Server 1, Task 2, Subtask 0, Client 4, Honest: 65
+Server 3, Task 2, Subtask 0, Client 4, Honest: 65
+Client 1, Task 2, Subtask 0, Server 1: 40
+Client 1, Task 2, Subtask 0, Server 3: 40
+Scores of servers for Client 1 after Task 2:
+Server 1: 2
+Server 3: 3
+Client 2, Task 2, Subtask 0, Server 1: 79
+Client 2, Task 2, Subtask 0, Server 3: 79
+Scores of servers for Client 2 after Task 2:
+Server 1: 3
+Server 2: 1
+Server 3: 1
+Client 3, Task 2, Subtask 0, Server 1: 96
+Client 3, Task 2, Subtask 0, Server 3: 96
+Scores of servers for Client 3 after Task 2:
+Server 1: 2
+Server 2: 1
+Server 3: 3
+Client 4, Task 2, Subtask 0, Server 1: 65
+Client 4, Task 2, Subtask 0, Server 3: 65
+Scores of servers for Client 4 after Task 2:
+Server 1: 3
+Server 2: 1
+Server 3: 2
+Server 1, Task 2, Subtask 1, Client 1, Honest: 69
+Server 3, Task 2, Subtask 1, Client 1, Honest: 69
+Server 1, Task 2, Subtask 1, Client 2, Malicious: 62
+Server 3, Task 2, Subtask 1, Client 2, Honest: 72
+Server 1, Task 2, Subtask 1, Client 3, Honest: 30
+Server 3, Task 2, Subtask 1, Client 3, Honest: 30
+Server 1, Task 2, Subtask 1, Client 4, Honest: 63
+Server 3, Task 2, Subtask 1, Client 4, Honest: 63
+Client 1, Task 2, Subtask 1, Server 1: 69
+Client 1, Task 2, Subtask 1, Server 3: 69
+Scores of servers for Client 1 after Task 2:
+Server 1: 3
+Server 3: 4
+Client 2, Task 2, Subtask 1, Server 1: 62
+Client 2, Task 2, Subtask 1, Server 3: 72
+Scores of servers for Client 2 after Task 2:
+Server 1: 4
+Server 2: 1
+Server 3: 1
+Client 3, Task 2, Subtask 1, Server 1: 30
+Client 3, Task 2, Subtask 1, Server 3: 30
+Scores of servers for Client 3 after Task 2:
+Server 1: 3
+Server 2: 1
+Server 3: 4
+Client 4, Task 2, Subtask 1, Server 1: 63
+Client 4, Task 2, Subtask 1, Server 3: 63
+Scores of servers for Client 4 after Task 2:
+Server 1: 4
+Server 2: 1
+Server 3: 3
+Server 1, Task 2, Subtask 2, Client 1, Honest: 99
+Server 3, Task 2, Subtask 2, Client 1, Honest: 99
+Server 1, Task 2, Subtask 2, Client 2, Malicious: 67
+Server 3, Task 2, Subtask 2, Client 2, Honest: 93
+Server 1, Task 2, Subtask 2, Client 3, Honest: 66
+Server 3, Task 2, Subtask 2, Client 3, Honest: 66
+Server 1, Task 2, Subtask 2, Client 4, Honest: 94
+Server 3, Task 2, Subtask 2, Client 4, Honest: 94
+Client 1, Task 2, Subtask 2, Server 1: 99
+Client 1, Task 2, Subtask 2, Server 3: 99
+Scores of servers for Client 1 after Task 2:
+Server 1: 4
+Server 3: 5
+Client 2, Task 2, Subtask 2, Server 1: 67
+Client 2, Task 2, Subtask 2, Server 3: 93
+Scores of servers for Client 2 after Task 2:
+Server 1: 5
+Server 2: 2
+Server 3: 1
+Client 3, Task 2, Subtask 2, Server 1: 66
+Client 3, Task 2, Subtask 2, Server 3: 66
+Scores of servers for Client 3 after Task 2:
+Server 1: 4
+Server 2: 1
+Server 3: 5
+Client 4, Task 2, Subtask 2, Server 1: 94
+Client 4, Task 2, Subtask 2, Server 3: 94
+Scores of servers for Client 4 after Task 2:
+Server 1: 5
+Server 2: 1
+Server 3: 4
+Server 4, Task 1, Subtask 0, Client 1, Honest: 77
+Server 2, Task 1, Subtask 0, Client 1, Honest: 77
+Server 1, Task 1, Subtask 0, Client 1, Malicious: 96
+Server 5, Task 1, Subtask 0, Client 2, Honest: 88
+Server 4, Task 1, Subtask 0, Client 2, Honest: 88
+Server 2, Task 1, Subtask 0, Client 2, Malicious: 11
+Server 5, Task 1, Subtask 0, Client 3, Honest: 67
+Server 4, Task 1, Subtask 0, Client 3, Honest: 67
+Server 2, Task 1, Subtask 0, Client 3, Malicious: 75
+Server 2, Task 1, Subtask 0, Client 4, Malicious: 86
+Server 3, Task 1, Subtask 0, Client 4, Honest: 21
+Server 1, Task 1, Subtask 0, Client 4, Honest: 21
+Server 2, Task 1, Subtask 0, Client 5, Malicious: 76
+Server 3, Task 1, Subtask 0, Client 5, Honest: 86
+Server 5, Task 1, Subtask 0, Client 5, Honest: 86
+Client 1, Task 1, Subtask 0, Server 4: 77
+Client 1, Task 1, Subtask 0, Server 2: 77
+Client 1, Task 1, Subtask 0, Server 1: 96
+Client 2, Task 1, Subtask 0, Server 5: 88
+Client 2, Task 1, Subtask 0, Server 4: 88
+Client 2, Task 1, Subtask 0, Server 2: 11
+Client 3, Task 1, Subtask 0, Server 5: 67
+Client 3, Task 1, Subtask 0, Server 4: 67
+Client 3, Task 1, Subtask 0, Server 2: 75
+Client 4, Task 1, Subtask 0, Server 2: 86
+Client 4, Task 1, Subtask 0, Server 3: 21
+Client 4, Task 1, Subtask 0, Server 1: 21
+Client 5, Task 1, Subtask 0, Server 2: 76
+Client 5, Task 1, Subtask 0, Server 3: 86
+Client 5, Task 1, Subtask 0, Server 5: 86
+Server 5, Task 1, Subtask 1, Client 1, Honest: 72
+Server 4, Task 1, Subtask 1, Client 1, Honest: 72
+Server 2, Task 1, Subtask 1, Client 1, Honest: 72
+Server 3, Task 1, Subtask 1, Client 2, Honest: 67
+Server 4, Task 1, Subtask 1, Client 2, Honest: 67
+Server 5, Task 1, Subtask 1, Client 2, Malicious: 63
+Server 2, Task 1, Subtask 1, Client 3, Honest: 46
+Server 5, Task 1, Subtask 1, Client 3, Honest: 46
+Server 4, Task 1, Subtask 1, Client 3, Malicious: 0
+Server 5, Task 1, Subtask 1, Client 4, Honest: 82
+Server 1, Task 1, Subtask 1, Client 4, Honest: 82
+Server 2, Task 1, Subtask 1, Client 4, Honest: 82
+Server 1, Task 1, Subtask 1, Client 5, Malicious: 74
+Server 2, Task 1, Subtask 1, Client 5, Honest: 26
+Server 5, Task 1, Subtask 1, Client 5, Malicious: 79
+Client 1, Task 1, Subtask 1, Server 5: 72
+Client 1, Task 1, Subtask 1, Server 4: 72
+Client 1, Task 1, Subtask 1, Server 2: 72
+Client 2, Task 1, Subtask 1, Server 3: 67
+Client 2, Task 1, Subtask 1, Server 4: 67
+Client 2, Task 1, Subtask 1, Server 5: 63
+Client 3, Task 1, Subtask 1, Server 2: 46
+Client 3, Task 1, Subtask 1, Server 5: 46
+Client 3, Task 1, Subtask 1, Server 4: 0
+Client 4, Task 1, Subtask 1, Server 5: 82
+Client 4, Task 1, Subtask 1, Server 1: 82
+Client 4, Task 1, Subtask 1, Server 2: 82
+Client 5, Task 1, Subtask 1, Server 1: 74
+Client 5, Task 1, Subtask 1, Server 2: 26
+Client 5, Task 1, Subtask 1, Server 5: 79
+Server 4, Task 1, Subtask 2, Client 1, Honest: 96
+Server 3, Task 1, Subtask 2, Client 1, Honest: 96
+Server 2, Task 1, Subtask 2, Client 1, Honest: 96
+Server 4, Task 1, Subtask 2, Client 2, Malicious: 8
+Server 1, Task 1, Subtask 2, Client 2, Honest: 79
+Server 2, Task 1, Subtask 2, Client 2, Honest: 79
+Server 4, Task 1, Subtask 2, Client 3, Honest: 48
+Server 1, Task 1, Subtask 2, Client 3, Honest: 48
+Server 5, Task 1, Subtask 2, Client 3, Honest: 48
+Server 2, Task 1, Subtask 2, Client 4, Malicious: 85
+Server 4, Task 1, Subtask 2, Client 4, Honest: 99
+Server 1, Task 1, Subtask 2, Client 4, Honest: 99
+Server 4, Task 1, Subtask 2, Client 5, Honest: 42
+Server 1, Task 1, Subtask 2, Client 5, Malicious: 85
+Server 5, Task 1, Subtask 2, Client 5, Malicious: 76
+Client 1, Task 1, Subtask 2, Server 4: 96
+Client 1, Task 1, Subtask 2, Server 3: 96
+Client 1, Task 1, Subtask 2, Server 2: 96
+Client 2, Task 1, Subtask 2, Server 4: 8
+Client 2, Task 1, Subtask 2, Server 1: 79
+Client 2, Task 1, Subtask 2, Server 2: 79
+Client 3, Task 1, Subtask 2, Server 4: 48
+Client 3, Task 1, Subtask 2, Server 1: 48
+Client 3, Task 1, Subtask 2, Server 5: 48
+Client 4, Task 1, Subtask 2, Server 2: 85
+Client 4, Task 1, Subtask 2, Server 4: 99
+Client 4, Task 1, Subtask 2, Server 1: 99
+Client 5, Task 1, Subtask 2, Server 4: 42
+Client 5, Task 1, Subtask 2, Server 1: 85
+Client 5, Task 1, Subtask 2, Server 5: 76
+Server 3, Task 1, Subtask 3, Client 1, Malicious: 34
+Server 5, Task 1, Subtask 3, Client 1, Honest: 43
+Server 1, Task 1, Subtask 3, Client 1, Honest: 43
+Server 5, Task 1, Subtask 3, Client 2, Honest: 69
+Server 3, Task 1, Subtask 3, Client 2, Honest: 69
+Server 1, Task 1, Subtask 3, Client 2, Honest: 69
+Server 1, Task 1, Subtask 3, Client 3, Honest: 92
+Server 3, Task 1, Subtask 3, Client 3, Honest: 92
+Server 5, Task 1, Subtask 3, Client 3, Honest: 92
+Server 2, Task 1, Subtask 3, Client 4, Malicious: 86
+Server 3, Task 1, Subtask 3, Client 4, Honest: 66
+Server 5, Task 1, Subtask 3, Client 4, Honest: 66
+Server 4, Task 1, Subtask 3, Client 5, Honest: 19
+Server 3, Task 1, Subtask 3, Client 5, Honest: 19
+Server 2, Task 1, Subtask 3, Client 5, Malicious: 95
+Client 1, Task 1, Subtask 3, Server 3: 34
+Client 1, Task 1, Subtask 3, Server 5: 43
+Client 1, Task 1, Subtask 3, Server 1: 43
+Client 2, Task 1, Subtask 3, Server 5: 69
+Client 2, Task 1, Subtask 3, Server 3: 69
+Client 2, Task 1, Subtask 3, Server 1: 69
+Client 3, Task 1, Subtask 3, Server 1: 92
+Client 3, Task 1, Subtask 3, Server 3: 92
+Client 3, Task 1, Subtask 3, Server 5: 92
+Client 4, Task 1, Subtask 3, Server 2: 86
+Client 4, Task 1, Subtask 3, Server 3: 66
+Client 4, Task 1, Subtask 3, Server 5: 66
+Client 5, Task 1, Subtask 3, Server 4: 19
+Client 5, Task 1, Subtask 3, Server 3: 19
+Client 5, Task 1, Subtask 3, Server 2: 95
+Server 3, Task 1, Subtask 4, Client 1, Malicious: 87
+Server 1, Task 1, Subtask 4, Client 1, Honest: 89
+Server 5, Task 1, Subtask 4, Client 1, Honest: 89
+Server 3, Task 1, Subtask 4, Client 2, Honest: 98
+Server 4, Task 1, Subtask 4, Client 2, Malicious: 18
+Server 5, Task 1, Subtask 4, Client 2, Honest: 98
+Server 3, Task 1, Subtask 4, Client 3, Honest: 88
+Server 4, Task 1, Subtask 4, Client 3, Honest: 88
+Server 2, Task 1, Subtask 4, Client 3, Malicious: 97
+Server 4, Task 1, Subtask 4, Client 4, Malicious: 74
+Server 3, Task 1, Subtask 4, Client 4, Honest: 67
+Server 2, Task 1, Subtask 4, Client 4, Honest: 67
+Server 2, Task 1, Subtask 4, Client 5, Honest: 66
+Server 3, Task 1, Subtask 4, Client 5, Honest: 66
+Server 1, Task 1, Subtask 4, Client 5, Honest: 66
+Client 1, Task 1, Subtask 4, Server 3: 87
+Client 1, Task 1, Subtask 4, Server 1: 89
+Client 1, Task 1, Subtask 4, Server 5: 89
+Scores of servers for Client 1 after Task 1:
+Server 1: 3
+Server 2: 3
+Server 3: 1
+Server 4: 3
+Server 5: 3
+Client 2, Task 1, Subtask 4, Server 3: 98
+Client 2, Task 1, Subtask 4, Server 4: 18
+Client 2, Task 1, Subtask 4, Server 5: 98
+Scores of servers for Client 2 after Task 1:
+Server 1: 2
+Server 2: 1
+Server 3: 3
+Server 4: 2
+Server 5: 3
+Client 3, Task 1, Subtask 4, Server 3: 88
+Client 3, Task 1, Subtask 4, Server 4: 88
+Client 3, Task 1, Subtask 4, Server 2: 97
+Scores of servers for Client 3 after Task 1:
+Server 1: 2
+Server 2: 1
+Server 3: 2
+Server 4: 3
+Server 5: 4
+Client 4, Task 1, Subtask 4, Server 4: 74
+Client 4, Task 1, Subtask 4, Server 3: 67
+Client 4, Task 1, Subtask 4, Server 2: 67
+Scores of servers for Client 4 after Task 1:
+Server 1: 3
+Server 2: 2
+Server 3: 3
+Server 4: 1
+Server 5: 2
+Client 5, Task 1, Subtask 4, Server 2: 66
+Client 5, Task 1, Subtask 4, Server 3: 66
+Client 5, Task 1, Subtask 4, Server 1: 66
+Scores of servers for Client 5 after Task 1:
+Server 1: 1
+Server 2: 3
+Server 3: 3
+Server 4: 1
+Server 5: 1
+Server 5, Task 2, Subtask 0, Client 1, Honest: 62
+Server 3, Task 2, Subtask 0, Client 1, Honest: 62
+Server 1, Task 2, Subtask 0, Client 1, Honest: 62
+Server 5, Task 2, Subtask 0, Client 2, Honest: 96
+Server 3, Task 2, Subtask 0, Client 2, Honest: 96
+Server 1, Task 2, Subtask 0, Client 2, Honest: 96
+Server 5, Task 2, Subtask 0, Client 3, Honest: 90
+Server 3, Task 2, Subtask 0, Client 3, Honest: 90
+Server 1, Task 2, Subtask 0, Client 3, Honest: 90
+Server 5, Task 2, Subtask 0, Client 4, Honest: 64
+Server 3, Task 2, Subtask 0, Client 4, Honest: 64
+Server 1, Task 2, Subtask 0, Client 4, Honest: 64
+Server 5, Task 2, Subtask 0, Client 5, Honest: 59
+Server 3, Task 2, Subtask 0, Client 5, Honest: 59
+Server 1, Task 2, Subtask 0, Client 5, Honest: 59
+Client 1, Task 2, Subtask 0, Server 5: 62
+Client 1, Task 2, Subtask 0, Server 3: 62
+Client 1, Task 2, Subtask 0, Server 1: 62
+Scores of servers for Client 1 after Task 2:
+Server 1: 4
+Server 2: 3
+Server 3: 2
+Server 4: 3
+Server 5: 4
+Client 2, Task 2, Subtask 0, Server 5: 96
+Client 2, Task 2, Subtask 0, Server 3: 96
+Client 2, Task 2, Subtask 0, Server 1: 96
+Scores of servers for Client 2 after Task 2:
+Server 1: 3
+Server 2: 1
+Server 3: 4
+Server 4: 2
+Server 5: 4
+Client 3, Task 2, Subtask 0, Server 5: 90
+Client 3, Task 2, Subtask 0, Server 3: 90
+Client 3, Task 2, Subtask 0, Server 1: 90
+Scores of servers for Client 3 after Task 2:
+Server 1: 3
+Server 2: 1
+Server 3: 3
+Server 4: 3
+Server 5: 5
+Client 4, Task 2, Subtask 0, Server 5: 64
+Client 4, Task 2, Subtask 0, Server 3: 64
+Client 4, Task 2, Subtask 0, Server 1: 64
+Scores of servers for Client 4 after Task 2:
+Server 1: 4
+Server 2: 2
+Server 3: 4
+Server 4: 1
+Server 5: 3
+Client 5, Task 2, Subtask 0, Server 5: 59
+Client 5, Task 2, Subtask 0, Server 3: 59
+Client 5, Task 2, Subtask 0, Server 1: 59
+Scores of servers for Client 5 after Task 2:
+Server 1: 2
+Server 2: 3
+Server 3: 4
+Server 4: 1
+Server 5: 2
+Server 5, Task 2, Subtask 1, Client 1, Honest: 83
+Server 3, Task 2, Subtask 1, Client 1, Honest: 83
+Server 1, Task 2, Subtask 1, Client 1, Honest: 83
+Server 5, Task 2, Subtask 1, Client 2, Honest: 80
+Server 3, Task 2, Subtask 1, Client 2, Honest: 80
+Server 1, Task 2, Subtask 1, Client 2, Honest: 80
+Server 5, Task 2, Subtask 1, Client 3, Honest: 95
+Server 3, Task 2, Subtask 1, Client 3, Malicious: 57
+Server 1, Task 2, Subtask 1, Client 3, Honest: 95
+Server 5, Task 2, Subtask 1, Client 4, Malicious: 74
+Server 3, Task 2, Subtask 1, Client 4, Honest: 51
+Server 1, Task 2, Subtask 1, Client 4, Malicious: 87
+Server 5, Task 2, Subtask 1, Client 5, Honest: 89
+Server 3, Task 2, Subtask 1, Client 5, Honest: 89
+Server 1, Task 2, Subtask 1, Client 5, Honest: 89
+Client 1, Task 2, Subtask 1, Server 5: 83
+Client 1, Task 2, Subtask 1, Server 3: 83
+Client 1, Task 2, Subtask 1, Server 1: 83
+Scores of servers for Client 1 after Task 2:
+Server 1: 5
+Server 2: 3
+Server 3: 3
+Server 4: 3
+Server 5: 5
+Client 2, Task 2, Subtask 1, Server 5: 80
+Client 2, Task 2, Subtask 1, Server 3: 80
+Client 2, Task 2, Subtask 1, Server 1: 80
+Scores of servers for Client 2 after Task 2:
+Server 1: 4
+Server 2: 1
+Server 3: 5
+Server 4: 2
+Server 5: 5
+Client 3, Task 2, Subtask 1, Server 5: 95
+Client 3, Task 2, Subtask 1, Server 3: 57
+Client 3, Task 2, Subtask 1, Server 1: 95
+Scores of servers for Client 3 after Task 2:
+Server 1: 4
+Server 2: 1
+Server 3: 3
+Server 4: 3
+Server 5: 6
+Client 4, Task 2, Subtask 1, Server 5: 74
+Client 4, Task 2, Subtask 1, Server 3: 51
+Client 4, Task 2, Subtask 1, Server 1: 87
+Scores of servers for Client 4 after Task 2:
+Server 1: 4
+Server 2: 2
+Server 3: 4
+Server 4: 2
+Server 5: 4
+Client 5, Task 2, Subtask 1, Server 5: 89
+Client 5, Task 2, Subtask 1, Server 3: 89
+Client 5, Task 2, Subtask 1, Server 1: 89
+Scores of servers for Client 5 after Task 2:
+Server 1: 3
+Server 2: 3
+Server 3: 5
+Server 4: 1
+Server 5: 3
+Server 5, Task 2, Subtask 2, Client 1, Honest: 50
+Server 3, Task 2, Subtask 2, Client 1, Honest: 50
+Server 1, Task 2, Subtask 2, Client 1, Honest: 50
+Server 5, Task 2, Subtask 2, Client 2, Honest: 81
+Server 3, Task 2, Subtask 2, Client 2, Honest: 81
+Server 1, Task 2, Subtask 2, Client 2, Honest: 81
+Server 5, Task 2, Subtask 2, Client 3, Honest: 92
+Server 3, Task 2, Subtask 2, Client 3, Malicious: 62
+Server 1, Task 2, Subtask 2, Client 3, Honest: 92
+Server 5, Task 2, Subtask 2, Client 4, Honest: 96
+Server 3, Task 2, Subtask 2, Client 4, Malicious: 86
+Server 1, Task 2, Subtask 2, Client 4, Honest: 96
+Server 5, Task 2, Subtask 2, Client 5, Malicious: 19
+Server 3, Task 2, Subtask 2, Client 5, Honest: 86
+Server 1, Task 2, Subtask 2, Client 5, Malicious: 78
+Client 1, Task 2, Subtask 2, Server 5: 50
+Client 1, Task 2, Subtask 2, Server 3: 50
+Client 1, Task 2, Subtask 2, Server 1: 50
+Scores of servers for Client 1 after Task 2:
+Server 1: 6
+Server 2: 3
+Server 3: 4
+Server 4: 3
+Server 5: 6
+Client 2, Task 2, Subtask 2, Server 5: 81
+Client 2, Task 2, Subtask 2, Server 3: 81
+Client 2, Task 2, Subtask 2, Server 1: 81
+Scores of servers for Client 2 after Task 2:
+Server 1: 5
+Server 2: 1
+Server 3: 6
+Server 4: 2
+Server 5: 6
+Client 3, Task 2, Subtask 2, Server 5: 92
+Client 3, Task 2, Subtask 2, Server 3: 62
+Client 3, Task 2, Subtask 2, Server 1: 92
+Scores of servers for Client 3 after Task 2:
+Server 1: 5
+Server 2: 1
+Server 3: 3
+Server 4: 3
+Server 5: 7
+Client 4, Task 2, Subtask 2, Server 5: 96
+Client 4, Task 2, Subtask 2, Server 3: 86
+Client 4, Task 2, Subtask 2, Server 1: 96
+Scores of servers for Client 4 after Task 2:
+Server 1: 5
+Server 2: 2
+Server 3: 4
+Server 4: 2
+Server 5: 5
+Client 5, Task 2, Subtask 2, Server 5: 19
+Client 5, Task 2, Subtask 2, Server 3: 86
+Client 5, Task 2, Subtask 2, Server 1: 78
+Scores of servers for Client 5 after Task 2:
+Server 1: 3
+Server 2: 3
+Server 3: 5
+Server 4: 2
+Server 5: 4
+Server 5, Task 2, Subtask 3, Client 1, Malicious: 99
+Server 3, Task 2, Subtask 3, Client 1, Honest: 60
+Server 1, Task 2, Subtask 3, Client 1, Malicious: 24
+Server 5, Task 2, Subtask 3, Client 2, Malicious: 59
+Server 3, Task 2, Subtask 3, Client 2, Honest: 78
+Server 1, Task 2, Subtask 3, Client 2, Malicious: 55
+Server 5, Task 2, Subtask 3, Client 3, Honest: 91
+Server 3, Task 2, Subtask 3, Client 3, Honest: 91
+Server 1, Task 2, Subtask 3, Client 3, Honest: 91
+Server 5, Task 2, Subtask 3, Client 4, Honest: 99
+Server 3, Task 2, Subtask 3, Client 4, Honest: 99
+Server 1, Task 2, Subtask 3, Client 4, Honest: 99
+Server 5, Task 2, Subtask 3, Client 5, Honest: 83
+Server 3, Task 2, Subtask 3, Client 5, Honest: 83
+Server 1, Task 2, Subtask 3, Client 5, Honest: 83
+Client 1, Task 2, Subtask 3, Server 5: 99
+Client 1, Task 2, Subtask 3, Server 3: 60
+Client 1, Task 2, Subtask 3, Server 1: 24
+Scores of servers for Client 1 after Task 2:
+Server 1: 6
+Server 2: 4
+Server 3: 4
+Server 4: 4
+Server 5: 6
+Client 2, Task 2, Subtask 3, Server 5: 59
+Client 2, Task 2, Subtask 3, Server 3: 78
+Client 2, Task 2, Subtask 3, Server 1: 55
+Scores of servers for Client 2 after Task 2:
+Server 1: 5
+Server 2: 1
+Server 3: 6
+Server 4: 3
+Server 5: 6
+Client 3, Task 2, Subtask 3, Server 5: 91
+Client 3, Task 2, Subtask 3, Server 3: 91
+Client 3, Task 2, Subtask 3, Server 1: 91
+Scores of servers for Client 3 after Task 2:
+Server 1: 6
+Server 2: 1
+Server 3: 4
+Server 4: 3
+Server 5: 8
+Client 4, Task 2, Subtask 3, Server 5: 99
+Client 4, Task 2, Subtask 3, Server 3: 99
+Client 4, Task 2, Subtask 3, Server 1: 99
+Scores of servers for Client 4 after Task 2:
+Server 1: 6
+Server 2: 2
+Server 3: 5
+Server 4: 2
+Server 5: 6
+Client 5, Task 2, Subtask 3, Server 5: 83
+Client 5, Task 2, Subtask 3, Server 3: 83
+Client 5, Task 2, Subtask 3, Server 1: 83
+Scores of servers for Client 5 after Task 2:
+Server 1: 4
+Server 2: 3
+Server 3: 6
+Server 4: 2
+Server 5: 5
+Server 5, Task 2, Subtask 4, Client 1, Honest: 62
+Server 3, Task 2, Subtask 4, Client 1, Honest: 62
+Server 1, Task 2, Subtask 4, Client 1, Honest: 62
+Server 5, Task 2, Subtask 4, Client 2, Honest: 34
+Server 3, Task 2, Subtask 4, Client 2, Honest: 34
+Server 1, Task 2, Subtask 4, Client 2, Honest: 34
+Server 5, Task 2, Subtask 4, Client 3, Honest: 51
+Server 3, Task 2, Subtask 4, Client 3, Honest: 51
+Server 1, Task 2, Subtask 4, Client 3, Honest: 51
+Server 5, Task 2, Subtask 4, Client 4, Honest: 84
+Server 3, Task 2, Subtask 4, Client 4, Honest: 84
+Server 1, Task 2, Subtask 4, Client 4, Honest: 84
+Server 5, Task 2, Subtask 4, Client 5, Honest: 83
+Server 3, Task 2, Subtask 4, Client 5, Honest: 83
+Server 1, Task 2, Subtask 4, Client 5, Honest: 83
+Client 1, Task 2, Subtask 4, Server 5: 62
+Client 1, Task 2, Subtask 4, Server 3: 62
+Client 1, Task 2, Subtask 4, Server 1: 62
+Scores of servers for Client 1 after Task 2:
+Server 1: 7
+Server 2: 4
+Server 3: 5
+Server 4: 4
+Server 5: 7
+Client 2, Task 2, Subtask 4, Server 5: 34
+Client 2, Task 2, Subtask 4, Server 3: 34
+Client 2, Task 2, Subtask 4, Server 1: 34
+Scores of servers for Client 2 after Task 2:
+Server 1: 6
+Server 2: 1
+Server 3: 7
+Server 4: 3
+Server 5: 7
+Client 3, Task 2, Subtask 4, Server 5: 51
+Client 3, Task 2, Subtask 4, Server 3: 51
+Client 3, Task 2, Subtask 4, Server 1: 51
+Scores of servers for Client 3 after Task 2:
+Server 1: 7
+Server 2: 1
+Server 3: 5
+Server 4: 3
+Server 5: 9
+Client 4, Task 2, Subtask 4, Server 5: 84
+Client 4, Task 2, Subtask 4, Server 3: 84
+Client 4, Task 2, Subtask 4, Server 1: 84
+Scores of servers for Client 4 after Task 2:
+Server 1: 7
+Server 2: 2
+Server 3: 6
+Server 4: 2
+Server 5: 7
+Client 5, Task 2, Subtask 4, Server 5: 83
+Client 5, Task 2, Subtask 4, Server 3: 83
+Client 5, Task 2, Subtask 4, Server 1: 83
+Scores of servers for Client 5 after Task 2:
+Server 1: 5
+Server 2: 3
+Server 3: 7
+Server 4: 2
+Server 5: 6
